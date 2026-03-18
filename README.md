@@ -93,3 +93,36 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a real-wor
 ---
 
 ## 📁 Project Structure
+ApexTask-2-EDA/
+│
+├── Task2_EDA.ipynb # Main analysis notebook
+├── mall_customers.csv # Dataset
+├── eda_processed.csv # Cleaned/processed dataset
+└── README.md # Project documentation
+
+---
+
+## 🚀 How to Run the Project
+
+1. Upload dataset to Google Colab  
+2. Open `Task2_EDA.ipynb`  
+3. Run all cells step-by-step  
+4. View visualizations and insights  
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how EDA helps in understanding customer behavior and identifying trends that can assist businesses in decision-making.
+
+---
+
+## 🔗 Author
+
+**Piyush Udapurkar**  
+[GitHub Profile](https://github.com/piyush-0301)
+
+---
+
+## ⭐ If you like this project
+Give it a star ⭐ on GitHub!
